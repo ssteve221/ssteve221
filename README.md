@@ -1,164 +1,133 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=220&section=header&text=Stephen%20Wanjohi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=22" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Stephen's%20Digital%20Universe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=20&descAlignY=58&descColor=A9FEF7" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Python+%7C+Django+%7C+Flask+%7C+React+%7C+TypeScript;From+Nairobi+with+code+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Stephen;Full-Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+line+at+a+time;From+Kenya+%F0%9F%87%B0%F0%9F%87%AA+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=ssteve221">
-    <img src="https://komarev.com/ghpvc/?username=ssteve221&style=for-the-badge&color=FF6B35&labelColor=1a1a2e" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/ssteve221?style=for-the-badge&color=FF4500&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ssteve221?style=for-the-badge&color=FF8C00&labelColor=1a1a2e" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ssteve221&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ssteve221?style=for-the-badge&color=00b4d8&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ssteve221?style=for-the-badge&color=ffd60a&labelColor=0D1117&label=STARS" alt="GitHub stars" />
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-
-### 🔥 About Me
+## 🧑‍💻 About Me
 
 ```python
 class Stephen:
-    name       = "Stephen Wanjohi"
-    location   = "Kenya 🇰🇪"
-    role       = "Full-Stack Developer"
-    passions   = ["Clean Code", "3D Modeling", "Problem Solving"]
-    currently  = [
-        "☁️  Learning GO to build fast and efficient systems",
-    ]
-    fun_fact   = "Every bug is just a feature in disguise 🐛➡️✨"
-    hobbies    = ["Blender 3D", "Gaming", "Open Source"]
+    location     = "Kenya 🇰🇪"
+    role         = "Full-Stack Developer"
+    languages    = ["Python", "JavaScript", "TypeScript", "Go"]
+    learning_now = ["Cloud Technologies", "Go", "Kubernetes", "Cybersecurity", "AI/ML"]
+    hobbies      = ["3D Modeling in Blender 🎨", "Open Source 🌍", "Bug Hunting 🐛"]
+    fun_fact     = "Every bug is just a feature in disguise! 🐛 ➡️ ✨"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 ```
 
-<br clear="right"/>
+---
+
+## 🔭 What I'm Working On
 
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=820&lines=💪+Fitness+app+that+revolutionizes+workout+tracking;🏆+Video+tournament+management+system+(multi-game+expansion+coming!);☁️+Exploring+Cloud+Architecture+%26+Microservices;🔐+Diving+into+Cybersecurity+%26+Kubernetes;🤖+Integrating+AI%2FML+into+real-world+apps" alt="Current Focus" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-| 🏋️ FitTrack Pro | 🎮 Tournament Manager |
-|:---:|:---:|
-| A revolutionary fitness app that tracks workouts, sets goals, and visualizes your progress with beautiful charts | A video game tournament management system — bracket generation, live scoring, and leaderboards |
-| ![Python](https://img.shields.io/badge/Python-FF6B35?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-FF4500?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-FF8C00?style=flat&logo=react&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B35?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-FF4500?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-FF8C00?style=flat&logo=mongodb&logoColor=white) |
-| `In Active Development` | `Expanding to Multiple Games` |
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,html,css&theme=dark" />
+</p>
 
-</div>
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs&theme=dark" />
+</p>
 
----
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+</p>
 
-### 🛠️ Tech Stack
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,blender&theme=dark" />
+</p>
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FF6B35)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=FF8C00)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FF4500)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=FF6B35)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=FF8C00)
-
-**Frameworks & Libraries**
-
-![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=FF6B35)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=FF8C00)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=FF4500)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=FF6B35)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=FF6B35)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=FF8C00)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FF4500)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=FF6B35)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FF8C00)
-![Blender](https://img.shields.io/badge/Blender-1a1a2e?style=for-the-badge&logo=blender&logoColor=FF4500)
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,bash&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-00C7B7?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Arch-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF8C00&text_color=ffffff" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=FF6B6B" alt="GitHub Stats" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7" alt="Top Languages" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF8C00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=0D1117&color=FF8C00&line=FF6B35&point=FF4500&area=true&area_color=FF6B3520&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssteve221&theme=onestar&no-frame=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=0D1117&color=A9FEF7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-### 🎵 Now Playing on Spotify
-
-> **⚡ Setup guide:** Deploy [novatorem/novatorem](https://github.com/novatorem/novatorem) to Vercel, connect your Spotify, then replace `YOUR_VERCEL_URL` below with your deployment URL.
+## 🏆 Achievements
 
 <div align="center">
-
-[![Spotify](https://novatorem.YOUR_VERCEL_URL.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
-
-> Once deployed, this card will show whatever you're currently listening to — live! 🎧
-
----
-
-### 🌱 What I'm Learning Now
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=FF6B35&center=true&vCenter=true&width=800&lines=☁️+Cloud+Technologies+%26+Microservices+Architecture;🤖+AI%2FML+Integration+into+Full-Stack+Apps;🎨+Advanced+UI%2FUX+Design+Principles;🔐+System+Security+%26+Performance+Optimization;🌍+Contributing+to+Open+Source+Projects" alt="Learning" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ssteve221&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
+  <a href="https://instagram.com/spongebobs.place" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:stephen.wanjohi290@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-<a href="https://instagram.com/spongebobs.place" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=FF6B35" alt="Instagram" />
-</a>
-<a href="mailto:stephen.wanjohi290@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF4500" alt="Gmail" />
-</a>
+<br/>
 
-<br><br>
-
-💡 *Always open to interesting conversations and collaboration opportunities!*
-
-⭐ *If you find my work useful, a star goes a long way!*
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=💡+Always+open+to+interesting+conversations;🤝+Looking+for+collaboration+opportunities;⭐+Don't+forget+to+star+repos+you+find+useful!;🚀+Let's+innovate+and+create+together!" alt="Call to Action" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer&animation=fadeIn" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
