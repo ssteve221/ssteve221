@@ -1,160 +1,177 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Stephen;Full-Stack+Developer+%F0%9F%9A%80;From+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=220&section=header&text=Stephen%20Wanjohi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=22" />
+
 </div>
 
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Stephen's%20Digital%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=A+passionate+frontend+and+backend+developer+from+Kenya;Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssteve221&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ssteve221?style=for-the-badge&color=orange&labelColor=282c34" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ssteve221?style=for-the-badge&color=yellow&labelColor=282c34" alt="GitHub stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+the+future%2C+one+commit+at+a+time+🚀;Python+%7C+Django+%7C+Flask+%7C+React+%7C+TypeScript;From+Nairobi+with+code+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
 </div>
 
 <br>
 
-- 🔭 I'm currently working on **A fitness app that revolutionizes workout tracking and a video tournament management system that currently only supports one game but expanding to multiple games soon!**
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=ssteve221">
+    <img src="https://komarev.com/ghpvc/?username=ssteve221&style=for-the-badge&color=FF6B35&labelColor=1a1a2e" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/ssteve221?style=for-the-badge&color=FF4500&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ssteve221?style=for-the-badge&color=FF8C00&labelColor=1a1a2e" alt="Stars" />
+</div>
 
-- 🌱 I'm currently learning **Cloud Technologies, AI/ML Integration, and Advanced System Architecture**
+---
 
-- 💬 Ask me about **Python, Django, Flask, JavaScript, TypeScript, and Full-Stack Development**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- ⚡ Fun fact **I create 3D models in Blender when I'm not coding, and I believe every bug is just a feature in disguise! 🐛➡️✨**
+### 🔥 About Me
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
-  Connect with me:
-</h3>
+```python
+class Stephen:
+    name       = "Stephen Wanjohi"
+    location   = "Kenya 🇰🇪"
+    role       = "Full-Stack Developer"
+    passions   = ["Clean Code", "3D Modeling", "Problem Solving"]
+    currently  = [
+        "🏋️ Building a fitness app for workout tracking",
+        "🎮 Video tournament management system",
+        "☁️  Learning Cloud & AI/ML Integration",
+    ]
+    fun_fact   = "Every bug is just a feature in disguise 🐛➡️✨"
+    hobbies    = ["Blender 3D", "Gaming", "Open Source"]
+```
 
-<p align="left">
-  <a href="https://instagram.com/spongebobs.place" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spongebobs.place" height="40" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="50" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="40" width="50" />
-  </a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer and Wrench.png" alt="Tools" width="25" height="25" />
-  Languages and Tools:
-</h3>
+---
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-</p>
+### 🌌 3D Contribution Space
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar Chart.png" alt="Stats" width="25" height="25" />
-  GitHub Stats:
-</h3>
+> **✨ Add a stunning 3D contribution animation to your profile!**
+>
+> 1. Go to **[github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)** and follow the setup guide
+> 2. Enable the **`isocalendar`** plugin for a beautiful 3D isometric calendar
+> 3. Or grab a pre-made 3D contribution snake from **[platane/snk](https://github.com/platane/snk)**
+> 4. For a full 3D galaxy/space-themed profile animation, check out **[trinib/trinib](https://github.com/trinib/trinib)** for inspiration
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🏋️ FitTrack Pro | 🎮 Tournament Manager |
+|:---:|:---:|
+| A revolutionary fitness app that tracks workouts, sets goals, and visualizes your progress with beautiful charts | A video game tournament management system — bracket generation, live scoring, and leaderboards |
+| ![Python](https://img.shields.io/badge/Python-FF6B35?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-FF4500?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-FF8C00?style=flat&logo=react&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B35?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-FF4500?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-FF8C00?style=flat&logo=mongodb&logoColor=white) |
+| `In Active Development` | `Expanding to Multiple Games` |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FF6B35)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=FF8C00)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FF4500)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=FF6B35)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=FF8C00)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=FF6B35)
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=FF8C00)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=FF4500)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=FF6B35)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=FF6B35)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=FF8C00)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FF4500)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=FF6B35)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FF8C00)
+![Blender](https://img.shields.io/badge/Blender-1a1a2e?style=for-the-badge&logo=blender&logoColor=FF4500)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF8C00&text_color=ffffff" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&theme=dark&hide_border=true&background=0D1117&ring=FF6B35&fire=FF4500&currStreakLabel=FF8C00" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=0D1117&color=FF8C00&line=FF6B35&point=FF4500&area=true&area_color=FF6B3520&hide_border=true" alt="Activity Graph" />
 </div>
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />
-  Achievements:
-</h3>
+---
+
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssteve221&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ssteve221&theme=onestar&no-frame=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
-  Current Focus:
-</h3>
+---
+
+### 🎵 Now Playing on Spotify
+
+> **⚡ Setup guide:** Deploy [novatorem/novatorem](https://github.com/novatorem/novatorem) to Vercel, connect your Spotify, then replace `YOUR_VERCEL_URL` below with your deployment URL.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=4FC3F7&center=true&vCenter=true&width=800&lines=🌱+Exploring+Cloud+Technologies+%26+Microservices;🔍+Diving+Deep+into+AI%2FML+Integration;🎨+Mastering+UI%2FUX+Design+Principles;🚀+Building+Scalable+Backend+Architectures;⚡+Optimizing+Performance+%26+Security;🌍+Contributing+to+Open+Source+Projects" alt="Current Focus" />
+
+[![Spotify](https://novatorem.YOUR_VERCEL_URL.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
 </div>
 
+> Once deployed, this card will show whatever you're currently listening to — live! 🎧
+
+---
+
+### 🌱 What I'm Learning Now
+
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" />
-    Let's Build Something Amazing Together!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" />
-  </h3>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=💡+Always+open+to+interesting+conversations;🤝+Looking+for+collaboration+opportunities;⭐+Don't+forget+to+star+interesting+repositories;🚀+Let's+innovate+and+create+together!" alt="Call to Action" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=FF6B35&center=true&vCenter=true&width=800&lines=☁️+Cloud+Technologies+%26+Microservices+Architecture;🤖+AI%2FML+Integration+into+Full-Stack+Apps;🎨+Advanced+UI%2FUX+Design+Principles;🔐+System+Security+%26+Performance+Optimization;🌍+Contributing+to+Open+Source+Projects" alt="Learning" />
 </div>
 
+---
+
+### 📬 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+<a href="https://instagram.com/spongebobs.place" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=FF6B35" alt="Instagram" />
+</a>
+<a href="mailto:stephen.wanjohi290@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF4500" alt="Gmail" />
+</a>
+
+<br><br>
+
+💡 *Always open to interesting conversations and collaboration opportunities!*
+
+⭐ *If you find my work useful, a star goes a long way!*
+
 </div>
 
-<!---
-ssteve221/ssteve221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer&animation=fadeIn" />
 </div>
