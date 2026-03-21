@@ -1,31 +1,15 @@
-<!-- ============================================================ -->
-<!--              STEPHEN'S CYBERSECURITY GITHUB README           -->
-<!-- ============================================================ -->
+<!-- STEPHEN WANJOHI · GITHUB PROFILE README -->
 
-<!-- ██████╗  █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗  -->
-<!-- ██╔══██╗██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗ -->
-<!-- ██████╔╝███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝ -->
-<!-- ██╔══██╗██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗ -->
-<!-- ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║ -->
-<!-- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ -->
-
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 1 · ANIMATED HEADER BANNER                       -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
+<!-- HEADER -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,25:0f0f3d,50:0f3460,75:1a0a3e,100:0a0a2e&height=280&section=header&text=STEPHEN%20W.&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=◈%20Cybersecurity%20%7C%20Full-Stack%20%7C%203D%20Artist%20%7C%20Kenya%20🇰🇪%20◈&descSize=19&descAlignY=62&descColor=00d4ff&stroke=ff00ff&strokeWidth=2)](https://github.com/ssteve221)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:343148,50:3d3a5c,100:343148&height=200&section=header&text=Stephen+Wanjohi&fontSize=52&fontColor=D7C49E&animation=fadeIn&fontAlignY=42&desc=Full-Stack+Developer+%7C+Security+Enthusiast+%7C+Kenya&descSize=15&descAlignY=62&descColor=D7C49Eaa)](https://github.com/ssteve221)
 
 </div>
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 2 · HERO + TYPING ANIMATION + BADGES             -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2600&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=50&lines=◈+Cybersecurity+Specialist+%26+Bug+Hunter+🐛;◈+Full-Stack+Developer+%7C+React+%7C+Django+%7C+Node;◈+3D+Artist+in+Blender+🎨+%7C+Open+Source+Lover;◈+Exploring+Kubernetes+%26+Cloud+Architecture+☁️;◈+AI%2FML+Integration+Engineer+🤖+%7C+Go+Developer;◈+Linux+Power+User+%7C+Docker+%7C+DevOps+Craftsman)](https://github.com/ssteve221)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2600&pause=1000&color=D7C49E&background=00000000&center=true&vCenter=true&width=680&lines=Cybersecurity+Specialist+%26+Bug+Hunter;Full-Stack+Dev+%7C+React+%7C+Django+%7C+Node.js;3D+Artist+in+Blender+%7C+Open+Source+Contributor;Exploring+Kubernetes+%26+Cloud+Architecture;AI%2FML+Integration+%7C+Go+Developer)](https://github.com/ssteve221)
 
 </div>
 
@@ -33,240 +17,150 @@
 
 <div align="center">
 
-<a href="https://github.com/ssteve221">
-  <img src="https://komarev.com/ghpvc/?username=ssteve221&style=for-the-badge&color=0f3460&labelColor=0a0a2e&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=ssteve221&style=flat-square&color=343148&label=profile+views)
 &nbsp;
-<a href="https://github.com/ssteve221?tab=followers">
-  <img src="https://img.shields.io/github/followers/ssteve221?style=for-the-badge&color=00ff88&labelColor=0a0a2e&label=FOLLOWERS&logo=github" alt="Followers"/>
-</a>
+![Followers](https://img.shields.io/github/followers/ssteve221?style=flat-square&color=343148&label=followers)
 &nbsp;
-<a href="https://github.com/ssteve221?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ssteve221?style=for-the-badge&color=ff00ff&labelColor=0a0a2e&label=⭐+STARS" alt="Stars"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ff88?style=for-the-badge&labelColor=0a0a2e&logo=statuspage" alt="Status"/>
+![Stars](https://img.shields.io/github/stars/ssteve221?style=flat-square&color=343148&label=stars)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 3 · ABOUT ME TERMINAL CARD                       -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`whoami`
+## About
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗  ║
-║     ██║   ██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║  ║
-║     ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║  ║
-║     ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║  ║
-║     ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗ ║
-║     ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ║
-╠══════════════════════════════════════════════════════════════════╣
-║  stephen@kenya:~$ cat profile.json                               ║
-║  {                                                               ║
-║    "name"        : "Stephen Wanjohi",                           ║
-║    "location"    : "Nairobi, Kenya 🇰🇪",                         ║
-║    "role"        : "Full-Stack Developer & Security Enthusiast", ║
-║    "languages"   : ["Python","JavaScript","TypeScript","Go"],    ║
-║    "learning"    : ["Kubernetes","Cybersecurity","AI/ML","Cloud"],║
-║    "hobbies"     : ["3D Blender 🎨","Open Source 🌍","Bug Hunting 🐛"],║
-║    "fun_fact"    : "Every bug is a hidden feature in disguise ✨",║
-║    "status"      : "Building the future, one commit at a time 🚀"║
-║  }                                                               ║
-║                                                                  ║
-║  stephen@kenya:~$ █                                              ║
-╚══════════════════════════════════════════════════════════════════╝
+stephen@kenya:~$ cat profile.json
+
+{
+  "name"      : "Stephen Wanjohi",
+  "location"  : "Nairobi, Kenya",
+  "role"      : "Full-Stack Developer & Security Enthusiast",
+  "languages" : ["Python", "JavaScript", "TypeScript", "Go"],
+  "learning"  : ["Kubernetes", "Cybersecurity", "AI/ML", "Cloud Architecture"],
+  "hobbies"   : ["3D Modeling (Blender)", "Open Source", "Bug Hunting"],
+  "fun_fact"  : "Every bug is a hidden feature in disguise."
+}
 ```
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 4 · CURRENT MISSIONS                             -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
+## Active Projects
 
-## ⚡ &nbsp;`./active_missions --list`
-
-<div align="center">
-
-| 🎯 &nbsp;MISSION | 🔬 &nbsp;TECH STACK | 🔋 &nbsp;STATUS |
-|:---|:---|:---:|
-| 💪 **FitTrack** — AI-powered workout & fitness tracker | `React` `Python` `ML` | 🟢 `ACTIVE` |
-| 🏆 **TourneyOS** — Multi-game video tournament platform | `Node.js` `PostgreSQL` `WebSockets` | 🟡 `EXPANDING` |
-| 🔐 **SecLab** — Personal cybersecurity research & tooling | `Python` `Go` `Bash` | 🔵 `ONGOING` |
-| ☁️ **CloudArch** — Microservices & cloud architecture studies | `Kubernetes` `Docker` `K8s` | 🟣 `LEARNING` |
-| 🤖 **AIForge** — Integrating AI/ML into real-world products | `TensorFlow` `FastAPI` `LLMs` | 🔵 `ONGOING` |
-
-</div>
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| **FitTrack** — AI-powered workout tracker | `React` `Python` `ML` | `active` |
+| **TourneyOS** — Multi-game tournament platform | `Node.js` `PostgreSQL` `WebSockets` | `expanding` |
+| **SecLab** — Personal cybersecurity research & tooling | `Python` `Go` `Bash` | `ongoing` |
+| **CloudArch** — Microservices & cloud architecture | `Kubernetes` `Docker` | `learning` |
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 5 · CYBER TECH STACK TABLE                       -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
+## Tech Stack
 
-## 🛠️ &nbsp;`cat /etc/tech-stack`
+**Languages**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-343148?style=flat-square&logo=python&logoColor=D7C49E)
+![JavaScript](https://img.shields.io/badge/JavaScript-343148?style=flat-square&logo=javascript&logoColor=D7C49E)
+![TypeScript](https://img.shields.io/badge/TypeScript-343148?style=flat-square&logo=typescript&logoColor=D7C49E)
+![Go](https://img.shields.io/badge/Go-343148?style=flat-square&logo=go&logoColor=D7C49E)
+![HTML5](https://img.shields.io/badge/HTML5-343148?style=flat-square&logo=html5&logoColor=D7C49E)
+![CSS3](https://img.shields.io/badge/CSS3-343148?style=flat-square&logo=css3&logoColor=D7C49E)
+![Bash](https://img.shields.io/badge/Bash-343148?style=flat-square&logo=gnubash&logoColor=D7C49E)
 
-### ◈ &nbsp;Languages
+**Frameworks & Libraries**
 
-[![Python](https://img.shields.io/badge/Python-0a0a2e?style=for-the-badge&logo=python&logoColor=00ff88)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0a0a2e?style=for-the-badge&logo=javascript&logoColor=ff00ff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0a0a2e?style=for-the-badge&logo=typescript&logoColor=00d4ff)](https://typescriptlang.org)
-[![Go](https://img.shields.io/badge/Go-0a0a2e?style=for-the-badge&logo=go&logoColor=00ff88)](https://go.dev)
-[![HTML5](https://img.shields.io/badge/HTML5-0a0a2e?style=for-the-badge&logo=html5&logoColor=ff00ff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-0a0a2e?style=for-the-badge&logo=css3&logoColor=00d4ff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bash](https://img.shields.io/badge/Bash-0a0a2e?style=for-the-badge&logo=gnubash&logoColor=00ff88)](https://gnu.org/software/bash)
+![React](https://img.shields.io/badge/React-343148?style=flat-square&logo=react&logoColor=D7C49E)
+![Node.js](https://img.shields.io/badge/Node.js-343148?style=flat-square&logo=nodedotjs&logoColor=D7C49E)
+![Django](https://img.shields.io/badge/Django-343148?style=flat-square&logo=django&logoColor=D7C49E)
+![Flask](https://img.shields.io/badge/Flask-343148?style=flat-square&logo=flask&logoColor=D7C49E)
+![FastAPI](https://img.shields.io/badge/FastAPI-343148?style=flat-square&logo=fastapi&logoColor=D7C49E)
 
-### ◈ &nbsp;Frameworks & Libraries
+**Databases**
 
-[![React](https://img.shields.io/badge/React-0a0a2e?style=for-the-badge&logo=react&logoColor=00d4ff)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-0a0a2e?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)](https://nodejs.org)
-[![Django](https://img.shields.io/badge/Django-0a0a2e?style=for-the-badge&logo=django&logoColor=ff00ff)](https://djangoproject.com)
-[![Flask](https://img.shields.io/badge/Flask-0a0a2e?style=for-the-badge&logo=flask&logoColor=00d4ff)](https://flask.palletsprojects.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0a0a2e?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://fastapi.tiangolo.com)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-343148?style=flat-square&logo=postgresql&logoColor=D7C49E)
+![MongoDB](https://img.shields.io/badge/MongoDB-343148?style=flat-square&logo=mongodb&logoColor=D7C49E)
+![MySQL](https://img.shields.io/badge/MySQL-343148?style=flat-square&logo=mysql&logoColor=D7C49E)
+![Redis](https://img.shields.io/badge/Redis-343148?style=flat-square&logo=redis&logoColor=D7C49E)
 
-### ◈ &nbsp;Databases
+**DevOps & Tools**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a2e?style=for-the-badge&logo=postgresql&logoColor=00d4ff)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0a0a2e?style=for-the-badge&logo=mongodb&logoColor=00ff88)](https://mongodb.com)
-[![MySQL](https://img.shields.io/badge/MySQL-0a0a2e?style=for-the-badge&logo=mysql&logoColor=ff00ff)](https://mysql.com)
-[![Redis](https://img.shields.io/badge/Redis-0a0a2e?style=for-the-badge&logo=redis&logoColor=00d4ff)](https://redis.io)
+![Docker](https://img.shields.io/badge/Docker-343148?style=flat-square&logo=docker&logoColor=D7C49E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-343148?style=flat-square&logo=kubernetes&logoColor=D7C49E)
+![Linux](https://img.shields.io/badge/Linux-343148?style=flat-square&logo=linux&logoColor=D7C49E)
+![Git](https://img.shields.io/badge/Git-343148?style=flat-square&logo=git&logoColor=D7C49E)
+![Blender](https://img.shields.io/badge/Blender-343148?style=flat-square&logo=blender&logoColor=D7C49E)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-343148?style=flat-square&logo=hackthebox&logoColor=D7C49E)
 
-### ◈ &nbsp;DevOps, Security & Tools
+**Currently Learning**
 
-[![Docker](https://img.shields.io/badge/Docker-0a0a2e?style=for-the-badge&logo=docker&logoColor=00d4ff)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a2e?style=for-the-badge&logo=kubernetes&logoColor=ff00ff)](https://kubernetes.io)
-[![Linux](https://img.shields.io/badge/Linux-0a0a2e?style=for-the-badge&logo=linux&logoColor=00ff88)](https://kernel.org)
-[![Git](https://img.shields.io/badge/Git-0a0a2e?style=for-the-badge&logo=git&logoColor=ff00ff)](https://git-scm.com)
-[![Blender](https://img.shields.io/badge/Blender_3D-0a0a2e?style=for-the-badge&logo=blender&logoColor=00d4ff)](https://blender.org)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0a0a2e?style=for-the-badge&logo=hackthebox&logoColor=00ff88)](https://hackthebox.com)
-
-### ◈ &nbsp;Currently Learning
-
-[![Go](https://img.shields.io/badge/Go_(Advanced)-0f3460?style=for-the-badge&logo=go&logoColor=00ff88&labelColor=0a0a2e)](https://go.dev)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes_(CKA_Track)-0f3460?style=for-the-badge&logo=kubernetes&logoColor=ff00ff&labelColor=0a0a2e)](https://kubernetes.io)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0f3460?style=for-the-badge&logo=hackthebox&logoColor=00d4ff&labelColor=0a0a2e)](https://hackthebox.com)
-[![AI/ML](https://img.shields.io/badge/AI_%26_ML-0f3460?style=for-the-badge&logo=tensorflow&logoColor=00ff88&labelColor=0a0a2e)](https://tensorflow.org)
-[![Cloud](https://img.shields.io/badge/Cloud_Architecture-0f3460?style=for-the-badge&logo=googlecloud&logoColor=ff00ff&labelColor=0a0a2e)](https://cloud.google.com)
-
-</div>
+![Go](https://img.shields.io/badge/Go_(Advanced)-3d3a5c?style=flat-square&logo=go&logoColor=D7C49E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_(CKA)-3d3a5c?style=flat-square&logo=kubernetes&logoColor=D7C49E)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3d3a5c?style=flat-square&logo=hackthebox&logoColor=D7C49E)
+![AI/ML](https://img.shields.io/badge/AI_%26_ML-3d3a5c?style=flat-square&logo=tensorflow&logoColor=D7C49E)
+![Cloud](https://img.shields.io/badge/Cloud_Architecture-3d3a5c?style=flat-square&logo=googlecloud&logoColor=D7C49E)
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 6 · SKILL PROFICIENCY TABLE                      -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
+## Skill Levels
 
-## 📡 &nbsp;`./scan --skill-levels`
-
-<div align="center">
-
-| DOMAIN | SKILL | PROFICIENCY |
-|:------:|:-----:|:-----------:|
-| 🐍 Backend | Python / Django / Flask / FastAPI | `████████████░` 95% |
-| ⚛️ Frontend | React / TypeScript / HTML+CSS | `███████████░░` 88% |
-| 🟢 Runtime | Node.js / Express | `██████████░░░` 82% |
-| 🐳 DevOps | Docker / Linux / Git | `██████████░░░` 85% |
-| 🔐 Security | Bug Hunting / Recon / OWASP | `████████░░░░░` 65% |
-| ☁️ Cloud | Kubernetes / Microservices | `██████░░░░░░░` 50% |
-| 🎮 Go | Golang | `█████░░░░░░░░` 45% |
-| 🎨 Creative | Blender 3D Modeling | `████████░░░░░` 70% |
-| 🤖 AI/ML | TensorFlow / Integration | `███████░░░░░░` 55% |
-
-</div>
+| Domain | Skill | Level |
+|:-------|:------|:------|
+| Backend | Python / Django / Flask / FastAPI | `████████████░` 95% |
+| Frontend | React / TypeScript / HTML + CSS | `███████████░░` 88% |
+| Runtime | Node.js / Express | `██████████░░░` 82% |
+| DevOps | Docker / Linux / Git | `██████████░░░` 85% |
+| Security | Bug Hunting / Recon / OWASP | `████████░░░░░` 65% |
+| Cloud | Kubernetes / Microservices | `██████░░░░░░░` 50% |
+| Go | Golang | `█████░░░░░░░░` 45% |
+| Creative | Blender 3D Modeling | `████████░░░░░` 70% |
+| AI/ML | TensorFlow / Integration | `███████░░░░░░` 55% |
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 7 · GITHUB STATS                                 -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 📊 &nbsp;`git log --stats --author=stephen`
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/ssteve221">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a2e&title_color=00ff88&icon_color=ff00ff&text_color=00d4ff&ring_color=ff00ff" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=343148&title_color=D7C49E&icon_color=D7C49E&text_color=D7C49E" height="160" alt="GitHub Stats"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ssteve221">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&theme=radical&hide_border=true&bg_color=0a0a2e&title_color=00ff88&text_color=00d4ff&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&hide_border=true&bg_color=343148&title_color=D7C49E&text_color=D7C49E&langs_count=8" height="160" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ssteve221">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&theme=radical&hide_border=true&background=0a0a2e&ring=00ff88&fire=ff00ff&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=00ff88&sideNums=ff00ff&dates=6e7daa" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&hide_border=true&background=343148&ring=D7C49E&fire=D7C49E&currStreakLabel=D7C49E&sideLabels=D7C49E&currStreakNum=D7C49E&sideNums=D7C49E&dates=D7C49E99" alt="GitHub Streak"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 8 · ACTIVITY GRAPH                               -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 📈 &nbsp;`tail -f /var/log/commit-activity`
+## Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=0a0a2e&color=00ff88&line=ff00ff&point=00d4ff&area=true&area_color=0f3460&hide_border=true&custom_title=◈+Contribution+Heatmap+◈)](https://github.com/ssteve221)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ssteve221&bg_color=343148&color=D7C49E&line=D7C49E&point=D7C49E&area=true&area_color=3d3a5c&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ssteve221)
 
 </div>
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 9 · TROPHIES                                     -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 🏆 &nbsp;`ls /home/stephen/achievements/`
+## Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ssteve221&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=1&column=6&no-bg=true)](https://github.com/ssteve221)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ssteve221&theme=flat&no-frame=true&margin-w=8&row=1&column=6&no-bg=true)](https://github.com/ssteve221)
 
 </div>
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 10 · FEATURED PROJECTS                           -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 🚀 &nbsp;`ls -la ~/projects/ --featured`
-
-<div align="center">
-
-<a href="https://github.com/ssteve221">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssteve221&repo=fittrack&theme=radical&hide_border=true&bg_color=0a0a2e&title_color=00ff88&icon_color=ff00ff&text_color=00d4ff" alt="FitTrack"/>
-</a>
-&nbsp;
-<a href="https://github.com/ssteve221">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssteve221&repo=tourneyos&theme=radical&hide_border=true&bg_color=0a0a2e&title_color=00ff88&icon_color=ff00ff&text_color=00d4ff" alt="TourneyOS"/>
-</a>
-
-</div>
-
-<br/>
-
-> 💡 **Pro tip:** Check all my repos — the best ones might not be pinned yet!
-
----
-
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 11 · CONTRIBUTION SNAKE                          -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 🐍 &nbsp;`./run snake.py --grid=contributions`
+## Contribution Snake
 
 <div align="center">
 
@@ -276,58 +170,27 @@
 
 ---
 
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 12 · CONNECT                                     -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
-## 🌐 &nbsp;`./connect --protocol=human`
+## Connect
 
 <div align="center">
 
-<a href="https://instagram.com/spongebobs.place" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0a0a2e?style=for-the-badge&logo=instagram&logoColor=ff00ff&labelColor=0f0f3d" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:stephen.wanjohi290@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-0a0a2e?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0f0f3d" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ssteve221" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0a0a2e?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0f0f3d" alt="GitHub"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-343148?style=flat-square&logo=instagram&logoColor=D7C49E)](https://instagram.com/spongebobs.place)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-343148?style=flat-square&logo=gmail&logoColor=D7C49E)](mailto:stephen.wanjohi290@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-343148?style=flat-square&logo=github&logoColor=D7C49E)](https://github.com/ssteve221)
 
-<br/><br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=💡+Always+open+to+interesting+conversations+%26+collabs;🤝+Reach+out+—+let's+build+something+the+world+needs;⭐+Star+repos+you+find+useful+—+it+means+the+world!;🔐+Security+%7C+Code+%7C+Design+—+let's+connect+and+create;🚀+From+Nairobi+to+the+world+—+one+commit+at+a+time)](https://github.com/ssteve221)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=D7C49E99&center=true&vCenter=true&width=580&lines=Open+to+collaboration+and+interesting+conversations.;Star+repos+you+find+useful+—+it+means+a+lot.;Building+from+Nairobi,+for+the+world.)](https://github.com/ssteve221)
 
 </div>
 
----
-
-<!-- ┌─────────────────────────────────────────────────────────┐ -->
-<!--   SECTION 13 · ANIMATED FOOTER BANNER                      -->
-<!-- └─────────────────────────────────────────────────────────┘ -->
-
+<!-- FOOTER -->
 <div align="center">
 
-```
-  ██████╗ ██████╗ ██████╗ ███████╗     ███████╗███╗   ███╗ █████╗ ██████╗ ████████╗
- ██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██╔════╝████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝
- ██║     ██║   ██║██║  ██║█████╗       ███████╗██╔████╔██║███████║██████╔╝   ██║   
- ██║     ██║   ██║██║  ██║██╔══╝       ╚════██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║   
- ╚██████╗╚██████╔╝██████╔╝███████╗     ███████║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   
-  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝     ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-                     [ BUILD · HACK · SECURE · REPEAT ]
-```
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:343148,50:3d3a5c,100:343148&height=90&section=footer&text=stephen.wanjohi290@gmail.com&fontSize=13&fontColor=D7C49E99&animation=fadeIn&fontAlignY=65)](https://github.com/ssteve221)
 
 </div>
 
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0f3460,100:0a0a2e&height=130&section=footer&text=stephen.wanjohi290@gmail.com&fontSize=18&fontColor=00ff88&animation=fadeIn&fontAlignY=65&desc=◈%20Open%20to%20opportunities%20◈%20Let%27s%20build%20together%20◈&descSize=13&descAlignY=85&descColor=00d4ff)](https://github.com/ssteve221)
-
-</div>
-
-<!-- ============================================================ -->
-<!--  Built with 💻 + ☕ + 🔐  from Nairobi, Kenya 🇰🇪           -->
-<!-- ============================================================ -->
+<!-- Built from Nairobi, Kenya -->
