@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER BANNER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0035,60:9929EA,100:FF5FCF&height=280&section=header&text=STEPHEN.EXE&fontSize=78&fontColor=FAEB92&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+3D+Artist+%7C+Kenya+%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=62&descColor=FF5FCF&stroke=9929EA&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0035,60:9929EA,100:FF5FCF&height=280&section=header&text=STEPHEN.EXE&fontSize=78&fontColor=FAEB92&animation=fadeIn&fontAlignY=40&desc=Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+Kenya+%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=62&descColor=FF5FCF&stroke=9929EA&strokeWidth=2" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <br/>
