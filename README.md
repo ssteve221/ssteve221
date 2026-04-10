@@ -1,6 +1,6 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--              STEPHEN'S GITHUB PROFILE README               -->
-<!--          Cybersecurity • Full-Stack • 3D • Open Source     -->
+<!--          Cybersecurity • Full-Stack  • Open Source     -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
