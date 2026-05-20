@@ -1,146 +1,18 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,100:1a0040&height=160&section=header&text=Stephen+Wanjohi&fontSize=46&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=9929EA&center=true&vCenter=true&width=480&lines=Full-Stack+Developer.+Cybersecurity+Enthusiast.;Building+for+the+world+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="mailto:stephen.wanjohi290@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=9929EA" /></a>
-&nbsp;
-<a href="https://instagram.com/spongebobs.place"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=9929EA" /></a>
-&nbsp;
-<a href="https://github.com/ssteve221"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=9929EA" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ssteve221&style=flat-square&color=9929EA&label=views" />
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-## About
-
+# 💫 About Me:
 I'm a self-driven developer based in **Nairobi, Kenya**, focused on building clean, functional software across the full stack. Currently deepening my knowledge in **cybersecurity**, **cloud architecture**, and **high-performance systems** with Go.
 
-I care about code quality, good design, and building things that actually work.
 
-```python
-stack = {
-    "languages"  : ["Python", "JavaScript", "TypeScript", "Go", "Bash"],
-    "frontend"   : ["React", "Next.js", "HTML5", "CSS3"],
-    "backend"    : ["Django", "Flask", "Node.js", "Go"],
-    "databases"  : ["PostgreSQL", "MongoDB", "MySQL"],
-    "devops"     : ["Docker", "Kubernetes", "Linux", "Git"],
-}
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spongebobs.place) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stephen.wanjohi290@gmail.com) 
 
-currently_learning = ["Ethical Hacking", "Cloud Architecture", "AI/ML Integration"]
-```
-
-<br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ssteve221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ssteve221&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ssteve221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ssteve221&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## Stack
-
-<div align="center">
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,bash&theme=dark&perline=5" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,tailwind&theme=dark&perline=5" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=5" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,blender&theme=dark&perline=5" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ssteve221&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9929EA&icon_color=9929EA&text_color=aaaaaa&ring_color=9929EA&include_all_commits=true&count_private=true&hide_rank=false" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssteve221&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9929EA&text_color=aaaaaa&langs_count=6" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&hide_border=true&background=0d0d0d&ring=9929EA&fire=9929EA&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=444444&stroke=9929EA" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Contribution Skyline
-
-<div align="center">
-
-<sub>A 3D city built from my GitHub contributions — each block is a commit.</sub>
-
-<br/><br/>
-
-<a href="https://skyline.github.com/ssteve221/2024" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20%E2%86%97-0d0d0d?style=for-the-badge&logo=github&logoColor=9929EA&labelColor=0d0d0d&color=9929EA" />
-</a>
-
-<br/><br/>
-
-> *"Every commit is a block in the city."*
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>Made with intention · Nairobi, Kenya 🇰🇪</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0040,100:0d0d0d&height=80&section=footer&reversal=true&animation=fadeIn" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
