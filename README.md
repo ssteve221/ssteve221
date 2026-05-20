@@ -85,20 +85,7 @@ currently_learning = ["Ethical Hacking", "Cloud Architecture", "AI/ML Integratio
 
 <br/>
 
-## What I'm Working On
 
-| Project | Description | Status |
-|---|---|:---:|
-| 💪 **Fitness App** | Workout tracking platform with progress analytics | `active` |
-| 🏆 **Tournament System** | Multi-game video tournament management platform | `active` |
-| 🔐 **K8s Hardening** | Kubernetes security research & best practices | `research` |
-| 🤖 **AI/ML Integration** | Embedding ML models into production applications | `learning` |
-
-<br/>
-
----
-
-<br/>
 
 ## GitHub
 
@@ -114,6 +101,30 @@ currently_learning = ["Ethical Hacking", "Cloud Architecture", "AI/ML Integratio
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssteve221&hide_border=true&background=0d0d0d&ring=9929EA&fire=9929EA&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=444444&stroke=9929EA" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Contribution Skyline
+
+<div align="center">
+
+<sub>A 3D city built from my GitHub contributions — each block is a commit.</sub>
+
+<br/><br/>
+
+<a href="https://skyline.github.com/ssteve221/2024" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20%E2%86%97-0d0d0d?style=for-the-badge&logo=github&logoColor=9929EA&labelColor=0d0d0d&color=9929EA" />
+</a>
+
+<br/><br/>
+
+> *"Every commit is a block in the city."*
+
 </div>
 
 <br/>
