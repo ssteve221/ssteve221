@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2800&pause=1200&color=9929EA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%2F%2F+React+·+Django+·+Go;Cybersecurity+Enthusiast+%2F%2F+Ethical+Hacking;Open+Source+Contributor+%2F%2F+Kenya+🇰🇪" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=2800&pause=1200&color=9929EA&center=true&vCenter=true&width=600&lines=backend+developer+%2F%2F+React+·+Django+·+Go;Cybersecurity+Enthusiast+%2F%2F+Ethical+Hacking;Open+Source+Contributor+%2F%2F+Kenya+🇰🇪" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 #!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────
 #  operator  : stephen.wanjohi290@gmail.com
-#  clearance : FULL STACK DEVELOPER
+#  clearance : backend developer
 #  location  : Nairobi, Kenya 🇰🇪
 # ─────────────────────────────────────────────────────────
 
